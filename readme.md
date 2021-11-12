@@ -1,2 +1,0 @@
-# rajaahdjey.github.io
-Gitpage
